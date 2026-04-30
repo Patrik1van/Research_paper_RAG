@@ -6,7 +6,7 @@ This project uses a decoupled architecture:
 * **Frontend:** [Open WebUI](https://docs.openwebui.com/) (A sleek, ChatGPT-like interface)
 * **Backend:** FastAPI
 * **Agent Framework:** LangGraph & LangChain
-* **LLM & Embeddings:** Google Gemini (`gemini-2.5-flash` & `text-embedding-004`)
+* **LLM & Embeddings:** Google Gemini (`gemini-2.5-flash` & `gemini-embedding-001`)
 * **Vector Database:** FAISS (In-memory)
 
 ## 📂 Project Structure
